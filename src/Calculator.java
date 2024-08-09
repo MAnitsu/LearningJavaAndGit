@@ -8,11 +8,11 @@ public class Calculator {
         double secondNumber;
         String operation;
 
-        System.out.print( "Insert first number: " );
+        System.out.print("Insert first number: ");
         firstNumber = keyboard.nextDouble();
-        System.out.print( "Insert second number: " );
+        System.out.print("Insert second number: ");
         secondNumber = keyboard.nextDouble();
-        System.out.print( "What operation do you want? (sum, difference, product, quotation) " );
+        System.out.print("What operation do you want? (sum, difference, product, quotation) ");
         operation = keyboard.next().toLowerCase();
 
         if (operation.equals("sum")) {
