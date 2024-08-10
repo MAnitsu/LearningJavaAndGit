@@ -25,7 +25,7 @@ public class Calculator {
             double prod = firstNumber * secondNumber;
             System.out.println("The product of the numbers is: " + prod);
         } else if (operation.equals("quotation")) {
-            double quot = firstNumber / (double) secondNumber;
+            double quot = firstNumber / secondNumber;
             System.out.println("The quotient of the numbers is: " + quot);
         } else {
             System.out.println("Invalid choice");
