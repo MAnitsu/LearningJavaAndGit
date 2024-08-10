@@ -1,8 +1,6 @@
 import java.util.Scanner;
 
 public class Test {
-    private static boolean And;
-
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
 
