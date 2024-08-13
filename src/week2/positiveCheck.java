@@ -9,7 +9,7 @@ public class positiveCheck {
         double number;
 
         System.out.print("Insert a number and the program will tell you if it is positive, negative, or zero: ");
-        number = keyboard.nextInt();
+        number = keyboard.nextDouble();
 
         if (number > 0) {
             System.out.println("Positive");
