@@ -6,16 +6,12 @@ public class Calculator {
     public static void main(String[] args) {
         Scanner keyboard = new Scanner(System.in);
 
-        double firstNumber;
-        double secondNumber;
-        String operation;
-
         System.out.print("Insert first number: ");
-        firstNumber = keyboard.nextDouble();
+        double firstNumber = keyboard.nextDouble();
         System.out.print("Insert second number: ");
-        secondNumber = keyboard.nextDouble();
+        double secondNumber = keyboard.nextDouble();
         System.out.print("What operation do you want? (sum, difference, product, quotation) ");
-        operation = keyboard.next().toLowerCase();
+        String operation = keyboard.next().toLowerCase();
 
         if (operation.equals("sum")) {
             double sum = firstNumber + secondNumber;
