@@ -4,6 +4,8 @@
 In this repository I will upload my journey of learning Java and Git. With the help of ChatGPT I created a learning plan with different concepts and tasks to be done weekly. I will also add some more tasks if I feel like I need to understand a concept better.
 
 
+
+
 ## Roadmap
 
 ### **Week 1: Introduction to Java and Git**
