@@ -91,9 +91,9 @@ In this repository I will upload my journey of learning Java and Git. With the h
 ### **Week 4: Encapsulation and Inheritance**
 
 #### **Java Concepts:**
-- Encapsulation and Access Modifiers (private, protected, public)
-- Getters and Setters
-- Inheritance
+- ~~Encapsulation and Access Modifiers (private, protected, public)~~
+- ~~Getters and Setters~~
+- ~~Inheritance~~
 - `super` keyword
 
 #### **Git Concepts:**
