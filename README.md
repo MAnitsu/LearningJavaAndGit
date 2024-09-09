@@ -94,7 +94,7 @@ In this repository I will upload my journey of learning Java and Git. With the h
 - ~~Encapsulation and Access Modifiers (private, protected, public)~~
 - ~~Getters and Setters~~
 - ~~Inheritance~~
-- `super` keyword
+- ~~`super` keyword~~
 
 #### **Git Concepts:**
 - Tagging releases
