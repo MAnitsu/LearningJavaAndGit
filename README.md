@@ -103,9 +103,9 @@ In this repository I will upload my journey of learning Java and Git. With the h
 
 #### **Exercises:**
 1. **Java:**
-   - Create a `Person` class with private attributes and use getters and setters to access them.
-   - Develop an `Employee` class that inherits from the `Person` class and adds additional properties and methods.
-   - Override methods in the `Employee` class and use the `super` keyword.
+   - ~~Create a `Person` class with private attributes and use getters and setters to access them.~~
+   - ~~Develop an `Employee` class that inherits from the `Person` class and adds additional properties and methods.~~
+   - ~~Override methods in the `Employee` class and use the `super` keyword.~~
 
 2. **Git:**
    - Tag a commit in your repository to mark a specific version.
