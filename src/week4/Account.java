@@ -1,6 +1,6 @@
 package week4;
 
-public class gettersNSetters {
+public class Account {
     private String name;
     private int age;
 
@@ -21,7 +21,7 @@ public class gettersNSetters {
     }
 
     public static void main(String[] args) {
-        gettersNSetters a = new gettersNSetters();
+        Account a = new Account();
         a.setName("Pablo");
         a.setAge(23);
         System.out.println(a.getName() + ", " + a.getAge());

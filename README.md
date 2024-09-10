@@ -117,8 +117,8 @@ In this repository I will upload my journey of learning Java and Git. With the h
 ### **Week 5: Polymorphism and Abstraction**
 
 #### **Java Concepts:**
-- Method Overloading
-- Method Overriding
+- ~~Method Overloading~~
+- ~~Method Overriding~~
 - Abstract Classes and Methods
 - Interfaces
 
